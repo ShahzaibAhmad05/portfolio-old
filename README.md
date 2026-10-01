@@ -1,3 +1,3 @@
-# seller-site
+# Nothing to look at here
 
-Designed by me and Claude
+If you want to take a peek at the site, visit https://shahzaibahmadoldsite.vercel.app
